@@ -1,0 +1,12 @@
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\bin\Debug\net6.0\ProductApp.Domain.deps.json
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\bin\Debug\net6.0\ProductApp.Domain.dll
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\bin\Debug\net6.0\ProductApp.Domain.pdb
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.csproj.AssemblyReference.cache
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.AssemblyInfo.cs
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.csproj.CoreCompileInputs.cache
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.dll
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\refint\ProductApp.Domain.dll
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ProductApp.Domain.pdb
+C:\Githubs\OnionArchitecture\src\Core\ProductApp.Domain\obj\Debug\net6.0\ref\ProductApp.Domain.dll
